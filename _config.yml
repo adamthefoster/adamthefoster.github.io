@@ -3,9 +3,9 @@
 permalink:           pretty
 
 # Setup
-title:               Adam L. Foster
-tagline:             'digital scholarship : book history : textual studies'
-description:         'The website of Dawn Childress, UCLA Digital Library Program'
+title:               Adam Foster
+tagline:             'Audiovisual Archives & Preservation'
+description:         'Audiovisual Archives & Preservation'
 url:                 https://adamthefoster.github.io/
 baseurl:             
 paginate:            5
